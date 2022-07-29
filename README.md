@@ -2,16 +2,16 @@
 <pre>                                     <img align="center" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76115a1c382af9a0ea8b0b36e4031f7e21b5034494cc&rid=giphy.gif&ct=g"> </pre>
 <h1 align="center" style="font-family: "Lucida Console", "Courier New", monospace;">Hi 👋, I'm Santhosh Ramakrishnan</h1>
 <h3 align="center">Hark Working on Machine Learning And Beginner In Development</h3>
-<pre>                                     <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"></pre>
+<pre style="background-color:black">                                     <img align="center" alt="Coding" width="400" src="https://octodex.github.com/images/pythocat.png"></pre>
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 - 🔭 I’m currently working on [tactile image generation using opencv](none)
 
 - 🌱 I’m currently learning **tensorflow,react,nodejs**
 
-- 👯 I’m looking to collaborate on [none](none)
+- 👯 I’m looking to collaborate on [none](none)                                       
 
-- 🤝 I’m looking for help with [none](none)
+- 🤝 I’m looking for help with [none](none)                                          
 
 - 👨‍💻 All of my projects are available at [none](none)
 

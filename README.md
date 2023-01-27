@@ -5,9 +5,9 @@
 <pre style="background-color:black">                                     <img align="center" alt="Coding" width="400" src="https://octodex.github.com/images/pythocat.png"></pre>
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on [tactile image generation using opencv](none)
+- 🔭 I’m currently working on [machine learning](none)
 
-- 🌱 I’m currently learning **tensorflow,react,nodejs**
+- 🌱 I’m currently learning **python,linearalgebra and statistics**
 
 - 👯 I’m looking to collaborate on [none](none)                                       
 
@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [none](none)
 
-- ⚡ Fun fact **Actually,we are magicians talking with a machine**
+- ⚡ Fun fact ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

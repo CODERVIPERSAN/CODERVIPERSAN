@@ -1,5 +1,5 @@
 
-<pre>         <img align="center" src="./mycard.png"> </pre>
+<pre>     <img align="center" src="./mycard.png"> </pre>
 <h1 align="center" style="font-family: "Lucida Console", "Courier New", monospace;">Hi 👋, I'm Santhosh Ramakrishnan</h1>
 <h3 align="center">Hark Working on Machine Learning And Beginner In Development</h3>
 <pre style="background-color:black">                                     <img align="center" alt="Coding" width="400" src="https://octodex.github.com/images/pythocat.png"></pre>

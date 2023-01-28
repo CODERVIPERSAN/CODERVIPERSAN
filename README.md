@@ -1,5 +1,5 @@
 
-<pre>                                     <img align="center" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76115a1c382af9a0ea8b0b36e4031f7e21b5034494cc&rid=giphy.gif&ct=g"> </pre>
+<pre>                                     <img align="center" src="./Screenshot from 2023-01-28 20-22-41.png"> </pre>
 <h1 align="center" style="font-family: "Lucida Console", "Courier New", monospace;">Hi 👋, I'm Santhosh Ramakrishnan</h1>
 <h3 align="center">Hark Working on Machine Learning And Beginner In Development</h3>
 <pre style="background-color:black">                                     <img align="center" alt="Coding" width="400" src="https://octodex.github.com/images/pythocat.png"></pre>

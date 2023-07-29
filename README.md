@@ -1,23 +1,24 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <pre><img align="center" src="./mycard.png"></pre>
-<h1 align="center" style="font-family: "Lucida Console", "Courier New", monospace;"># Hi there, I'm Santhosh Ramakrishnan</h1>
+<h1 align="center" style="font-family: "Lucida Console", "Courier New", monospace;">👋# Hi there, I'm Santhosh Ramakrishnan</h1>
 <h3 align="center">Data Science</h3>
 <pre style="background-color:black">         </pre>                           
 
 
 
-Welcome to my GitHub profile!
+🌟Welcome to my GitHub profile! 
 
-## About Me
+About Me
 
 I am a passionate data science enthusiast with a strong background in Python programming. My journey in data science began with exploring Python's capabilities and building basic machine learning models. As I dived deeper into the field, I realized the power of statistics and linear algebra in extracting insights from data.
 
-## What I Love About Data Science
+
+❤️️ What I Love About Data Science 
 
 Data science has truly captured my heart. I find joy in manipulating all kinds of data and making sense of the information hidden within it. From data cleaning to handling missing values, I've honed my skills in data imputation and preprocessing, making any dataset ready for analysis.
 
-## My Skills
+👨‍💻 My Skills 
 
 - Programming: Python (NumPy, Pandas, Matplotlib, Seaborn)
 - Machine Learning: Scikit-learn, TensorFlow
@@ -30,10 +31,10 @@ Data science has truly captured my heart. I find joy in manipulating all kinds o
 - Capable of writing scripts: awk scripts ,sed scripts , python scripts
 - Writing Scripts is a habit because of linux user 
 
-## Projects
+🔧 Projects 
 
 I love applying my data science knowledge to real-world problems. Here are some of my notable projects:
-
+🎯
 - [soon](https://github.com/your-username/project-1): A machine learning model for predicting customer churn in a telecom company.
 - [soon](https://github.com/your-username/project-2): Analyzing and visualizing trends in COVID-19 data using Python.
 - [soon](https://github.com/your-username/project-3): Sentiment analysis of Twitter data to understand customer opinions.
@@ -41,7 +42,7 @@ I love applying my data science knowledge to real-world problems. Here are some 
 ## Let's Connect!
 
 I'm always eager to collaborate, learn from others, and contribute to meaningful projects. Feel free to connect with me through the following channels:
-
+ 🚀
 - Email: [santhoram2002@gmail.com](mailto:youremail@example.com)
 - LinkedIn: [linkedin.com/in/your-username](https://www.linkedin.com/in/your-username/)
 - Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)

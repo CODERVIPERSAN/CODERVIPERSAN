@@ -1,29 +1,58 @@
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <pre><img align="center" src="./mycard.png"></pre>
-<h1 align="center" style="font-family: "Lucida Console", "Courier New", monospace;">Hi 👋, I'm Santhosh Ramakrishnan</h1>
+<h1 align="center" style="font-family: "Lucida Console", "Courier New", monospace;"># Hi there, I'm Santhosh Ramakrishnan</h1>
 <h3 align="center">Data Science</h3>
-<pre style="background-color:black">                                     <img align="center" alt="Coding" width="400" src="https://octodex.github.com/images/pythocat.png"></pre>
----------------------------------------------------------------------------------------------------------------------------------------------------
+<pre style="background-color:black">         </pre>                           
 
-- 🔭 I’m currently working on [Data Modeling using Ml Algorithm](none)
 
-- 🌱 I’m currently learning **feature engineering**
 
-- 👯 I’m looking to collaborate on [none](none)                                       
+Welcome to my GitHub profile!
 
-- 🤝 I’m looking for help with [none](none)                                          
+## About Me
 
-- 👨‍💻 All of my projects are available at [none](none)
+I am a passionate data science enthusiast with a strong background in Python programming. My journey in data science began with exploring Python's capabilities and building basic machine learning models. As I dived deeper into the field, I realized the power of statistics and linear algebra in extracting insights from data.
 
-- 📝 I regularly write articles on [none](none)
+## What I Love About Data Science
 
-- 💬 Ask me about **anything u can**
+Data science has truly captured my heart. I find joy in manipulating all kinds of data and making sense of the information hidden within it. From data cleaning to handling missing values, I've honed my skills in data imputation and preprocessing, making any dataset ready for analysis.
 
-- 📫 How to reach me **santhoram2002@gmail.com**
+## My Skills
 
-- 📄 Know about my experiences [none](none)
+- Programming: Python (NumPy, Pandas, Matplotlib, Seaborn)
+- Machine Learning: Scikit-learn, TensorFlow
+- Business Analytics:Descriptive Analytics,Predictive Analytics,Prescriptive Analytics
+- Statistics: Hypothesis testing, Regression analysis(p_value),f_statistic
+- Linear_algebra:kernal,matrix_theory,dimensions,vectors
+- Data Manipulation: Data cleaning, Feature engineering,data modeling,
+- Data Visualization: Creating insightful visualizations to tell stories with data using matplotlib,ggplot (grammar of graphics)
+- Database:MongoDB,MySQL
+- Capable of writing scripts: awk scripts ,sed scripts , python scripts
+- Writing Scripts is a habit because of linux user 
 
-- ⚡ Fun fact ****
+## Projects
+
+I love applying my data science knowledge to real-world problems. Here are some of my notable projects:
+
+- [soon](https://github.com/your-username/project-1): A machine learning model for predicting customer churn in a telecom company.
+- [soon](https://github.com/your-username/project-2): Analyzing and visualizing trends in COVID-19 data using Python.
+- [soon](https://github.com/your-username/project-3): Sentiment analysis of Twitter data to understand customer opinions.
+
+## Let's Connect!
+
+I'm always eager to collaborate, learn from others, and contribute to meaningful projects. Feel free to connect with me through the following channels:
+
+- Email: [santhoram2002@gmail.com](mailto:youremail@example.com)
+- LinkedIn: [linkedin.com/in/your-username](https://www.linkedin.com/in/your-username/)
+- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+
+Thank you for visiting my GitHub profile. Let's make data science magic together! 🚀
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -27,6 +27,8 @@ Data science has truly captured my heart. I find joy in manipulating all kinds o
 - Linear_algebra:kernal,matrix_theory,dimensions,vectors
 - Data Manipulation: Data cleaning, Feature engineering,data modeling,
 - Data Visualization: Creating insightful visualizations to tell stories with data using matplotlib,ggplot (grammar of graphics)
+  sample1:https://embed.kumu.io/67a4331c2ba5818918f3b093cb449803
+  sample2:https://public.flourish.studio/visualisation/14589282/
 - Database:MongoDB,MySQL
 - Capable of writing scripts: awk scripts ,sed scripts , python scripts
 - Writing Scripts is a habit because of linux user 

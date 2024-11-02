@@ -1,7 +1,25 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<pre><img align="center" src="https://i.pinimg.com/originals/3b/33/12/3b3312b0ed8afa76e0e81a448084455f.gif"></pre>
-<!--./mycard.png -->
+<!--<style>
+img {
+  position: absolute;
+  top: 25px;
+  left: 25px;
+}
+.imgA1 {
+  z-index: 1;
+}
+.imgB1 {
+  z-index: 3;
+}
+</style>
+
+<img class="imgA1" src="https://i.pinimg.com/originals/3b/33/12/3b3312b0ed8afa76e0e81a448084455f.gif"> -->
+
+
+
+<pre><img src="./mycard.png"></pre>
+<!-- -->
 <h1 align="center" style="font-family: "Lucida Console", "Courier New", monospace;">👋# Hi there, I'm Santhosh Ramakrishnan</h1>
 <h3 align="center">Data Science</h3>
 

@@ -3,7 +3,6 @@
 <pre><img align="center" src="./mycard.png"></pre>
 <h1 align="center" style="font-family: "Lucida Console", "Courier New", monospace;">👋# Hi there, I'm Santhosh Ramakrishnan</h1>
 <h3 align="center">Data Science</h3>
-<pre style="background-color:black">         </pre>                           
 
 ![snake gif](https://github.com/CODERVIPERSAN/CODERVIPERSAN/blob/output/github-snake-dark.svg)
 

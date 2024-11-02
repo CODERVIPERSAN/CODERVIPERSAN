@@ -47,9 +47,9 @@ I love applying my data science knowledge to real-world problems. Here are some 
 
 I'm always eager to collaborate, learn from others, and contribute to meaningful projects. Feel free to connect with me through the following channels:
  🚀
-- Email: [santhoram2002@gmail.com](mailto:youremail@example.com)
-- LinkedIn: [linkedin.com/in/your-username](https://www.linkedin.com/in/your-username/)
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- Email: [@Gmail](mailto:santhoram2002@gmail.com)
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/santhosh-ramakrishnan002/)
+  <!-- - Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle) --!>
 
 Thank you for visiting my GitHub profile. Let's make data science magic together! 🚀
 
@@ -61,8 +61,8 @@ Thank you for visiting my GitHub profile. Let's make data science magic together
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/coder.vipersan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coder.vipersan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/coder.vipersan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coder.vipersan" height="30" width="40" /></a>
+<a href="https://instagram.com/_vipersan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coder.vipersan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@codervipersan4321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coder.vipersan" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sandy12_31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sandy12_31" height="30" width="40" /></a>
 </p>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------

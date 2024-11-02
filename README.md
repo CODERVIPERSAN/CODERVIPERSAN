@@ -5,7 +5,7 @@
 <h3 align="center">Data Science</h3>
 <pre style="background-color:black">         </pre>                           
 
-
+![snake gif](https://github.com/CODERVIPERSAN/CODERVIPERSAN/blob/output/github-snake-dark.svg)
 
 🌟Welcome to my GitHub profile! 
 

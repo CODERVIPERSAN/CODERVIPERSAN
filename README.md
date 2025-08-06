@@ -124,10 +124,13 @@ me.say_hi()
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🔮 **Customer Churn Prediction** | ML model for telecom customer retention | `Python` `Scikit-learn` `Pandas` |
-| 📊 **COVID-19 Data Analysis** | Comprehensive trend analysis and visualization | `Python` `Matplotlib` `Statistical Analysis` |
-| 💭 **Twitter Sentiment Analysis** | Real-time social media sentiment tracking | `NLP` `Python` `Machine Learning` |
-## 🌐 **Interactive Data Viz** | [Network Visualization](https://embed.kumu.io/67a4331c2ba5818918f3b093cb449803) • [Dynamic Charts](https://public.flourish.studio/visualisation/14589282/) | `D3.js` `Interactive Dashboards` |
+| 📈 **Quadrant-Based Sales Growth Strategy** | Comprehensive sales optimization using quadrant analysis for customer/product categorization | `Business Intelligence` `Excel` `Data Analysis` `Strategy` |
+| 🔮 **Customer Segmentation with Deep Gaussian Mixture** | Advanced ML customer segmentation using Deep Gaussian Mixture Models | `Python` `TensorFlow` `Deep Learning` `Machine Learning` |
+| 📄 **Question Paper Generator** | Intelligent system for automated question paper generation with difficulty balancing | `Python` `Algorithm Design` `Education Tech` `Automation` |
+| 🖼️ **Tactile Image Generation with OpenCV** | Computer vision app generating tactile representations for accessibility | `OpenCV` `Computer Vision` `Python` `Accessibility` |
+| 🎯 **Resource Allocation Optimization** | Intelligent resource distribution system for maximum efficiency | `Optimization` `Algorithms` `Operations Research` `Management` |
+| 🚗 **Park-Ease Parking Management** | Real-time parking management with slot booking and payment integration | `Django` `Bootstrap` `JavaScript` `MySQL` |
+| 🌐 **Interactive Data Viz** | [Network Visualization](https://embed.kumu.io/67a4331c2ba5818918f3b093cb449803) • [Dynamic Charts](https://public.flourish.studio/visualisation/14589282/) | `D3.js` `Interactive Dashboards` |
 
 </div>
 

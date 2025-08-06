@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&background=0D111700&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🔬+Data+Science+Wizard;🤖+Machine+Learning+Architect;📊+Statistical+Analysis+Expert;🐍+Python+Virtuoso;🐧+Linux+Command+Master;🧠+AI+Innovation+Pioneer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Science+Wizard;Machine+Learning+Architect;Statistical+Analysis+Expert;Python+Developer;Linux+Power+User;AI+Innovation+Pioneer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -86,13 +86,13 @@ me.say_hi()
 
 ### 🧠 Data Science & Machine Learning
 <div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-388E3C?style=for-the-badge&logo=seaborn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
 </div>
 
 ### 🗄️ Databases & Tools
@@ -216,8 +216,11 @@ gantt
 </table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codervipersan&theme=tokyonight&hide_border=true&layout=donut&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Most%20Used%20Languages" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codervipersan&theme=tokyonight&hide_border=true&layout=compact&custom_title=Weekly%20Coding%20Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codervipersan&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="60%" />
+</div>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=codervipersan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="60%" />
 </div>
 
 </details>
